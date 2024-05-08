@@ -1,2 +1,2 @@
 # Module-11-Challenge-Forecasting-Net-Prophet
-Forecasting Net Prophet- Jupyter notebook that contains your data preparation, your analysis, and your visualizations for all the time series data
+Forecasting Net Prophet- Jupyter notebook that contains data preparation, analysis, and visualizations for all the time series data analysis and results.
