@@ -17,3 +17,9 @@ Step 3: Relate the search traffic to stock price patterns
 Step 4: Create a time series model with Prophet
 
 Step 5 (optional): Forecast revenue by using time series models
+
+
+Please use the following nbviewer version link to view the complete graphic results along with required coding: https://nbviewer.org/github/RandyS456/Module-11-Challenge-Forecasting-Net-Prophet/blob/main/forecasting_net_prophet.ipynb
+
+
+
